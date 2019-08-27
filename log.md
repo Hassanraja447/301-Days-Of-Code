@@ -44,3 +44,15 @@ A little bit of work, but I think it is good.
 1. [Advice for Technical Writing](https://css-tricks.com/advice-for-technical-writing/)
 2. [background-image](https://css-tricks.com/almanac/properties/b/background-image/)
 3. [CSS Gradients](https://css-tricks.com/css3-gradients/)
+
+### Day 4: [27/08/2019]
+
+**Today's Progress:**
+Today started working on a paid project. Redesign of homepage, and inclusion of header and footer.
+
+**Thoughts:**
+Paid work is always good.
+
+**Link to work:**
+
+1. [ACA Explorers](www.acaexplorers/explorers/dashboard.php)
