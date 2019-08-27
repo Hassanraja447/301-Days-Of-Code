@@ -30,3 +30,17 @@ It was Sunday today. So I don't do much of work. Only some articles and wanderin
 **Link to work:**
 
 1. [How to get better at writing CSS](https://medium.com/free-code-camp/how-to-get-better-at-writing-css-a1732c32a72f)
+
+### Day 3: [26/08/2019]
+
+**Today's Progress:**
+It has been my passion to write my own blog post about what I'm going through in my journey to become a web developer. So when I saw a post by Chris Coyier about techinal writing, I started reading it. It is very helpful. Then I made some progress on my portfolio website. I wanted t have a gradient over my portfolio images. For this I search about gradient usage in css. I come across again Chris Coyier articles about gradients. I have'nt finished them yet.
+
+**Thoughts:**
+A little bit of work, but I think it is good.
+
+**Link to work:**
+
+1. [Advice for Technical Writing](https://css-tricks.com/advice-for-technical-writing/)
+2. [background-image](https://css-tricks.com/almanac/properties/b/background-image/)
+3. [CSS Gradients](https://css-tricks.com/css3-gradients/)
