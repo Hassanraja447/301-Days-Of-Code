@@ -56,3 +56,18 @@ Paid work is always good.
 **Link to work:**
 
 1. [ACA Explorers](www.acaexplorers/explorers/dashboard.php)
+
+### Day 5: [28/08/2019]
+
+**Today's Progress:**
+I get to learn about payment integration of stripe. Make some updates to paid project suggested by client. Read some articles to stay on track
+
+**Thoughts:**
+Little by little it will be done
+
+**Link to work:**
+
+1. [Stripe payment integration](https://stripe.com/onboarding/payments/integration)
+1. [How to escape tutorial purgatory as a new developer — or at any time in your career.](https://medium.com/free-code-camp/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40)
+1. [How this drawing changed me as a developer](https://medium.com/hackernoon/how-this-drawing-changed-me-as-a-developer-a0ff79457f20)
+1. [Working for a Company vs. Working for Yourself](https://medium.com/conquering-corporate-america/working-for-a-company-vs-working-for-yourself-bdcfa801daf9)
