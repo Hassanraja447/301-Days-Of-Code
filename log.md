@@ -71,3 +71,15 @@ Little by little it will be done
 1. [How to escape tutorial purgatory as a new developer — or at any time in your career.](https://medium.com/free-code-camp/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40)
 1. [How this drawing changed me as a developer](https://medium.com/hackernoon/how-this-drawing-changed-me-as-a-developer-a0ff79457f20)
 1. [Working for a Company vs. Working for Yourself](https://medium.com/conquering-corporate-america/working-for-a-company-vs-working-for-yourself-bdcfa801daf9)
+
+### Day 6: [29/08/2019]
+
+**Today's Progress:**
+Today was a busy day but not in terms of coding work. Still I started a new course on bootstrap 4 on openclassroom. It will help me standarizing my use of the framework.
+
+**Thoughts:**
+I may get 12 month access to the openclassroom throught fb developer circle. It would be one of the amazing point in my entire coding journey.
+
+**Link to work:**
+
+1. [Create Responsive Websites Efficiently With Bootstrap 4](https://openclassrooms.com/en/courses/5664281-create-responsive-websites-efficiently-with-bootstrap-4/6446805-add-ui-components)
