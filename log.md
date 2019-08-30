@@ -68,9 +68,9 @@ Little by little it will be done
 **Link to work:**
 
 1. [Stripe payment integration](https://stripe.com/onboarding/payments/integration)
-1. [How to escape tutorial purgatory as a new developer — or at any time in your career.](https://medium.com/free-code-camp/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40)
-1. [How this drawing changed me as a developer](https://medium.com/hackernoon/how-this-drawing-changed-me-as-a-developer-a0ff79457f20)
-1. [Working for a Company vs. Working for Yourself](https://medium.com/conquering-corporate-america/working-for-a-company-vs-working-for-yourself-bdcfa801daf9)
+2. [How to escape tutorial purgatory as a new developer — or at any time in your career.](https://medium.com/free-code-camp/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40)
+3. [How this drawing changed me as a developer](https://medium.com/hackernoon/how-this-drawing-changed-me-as-a-developer-a0ff79457f20)
+4. [Working for a Company vs. Working for Yourself](https://medium.com/conquering-corporate-america/working-for-a-company-vs-working-for-yourself-bdcfa801daf9)
 
 ### Day 6: [29/08/2019]
 
@@ -83,3 +83,17 @@ I may get 12 month access to the openclassroom throught fb developer circle. It 
 **Link to work:**
 
 1. [Create Responsive Websites Efficiently With Bootstrap 4](https://openclassrooms.com/en/courses/5664281-create-responsive-websites-efficiently-with-bootstrap-4/6446805-add-ui-components)
+
+### Day 7: [30/08/2019]
+
+**Today's Progress:**
+Completed two more section of bootstrap course. It is fun. Read two articles about semantic HTML tags and how to use gulp.
+
+**Thoughts:**
+I am thinking of starting my own blog, in fact this has been my wish since 2014. Therefore, I have created blog on many ocasion but soon quit. This time I'm taking it seriously, let see.
+
+**Link to work:**
+
+1. [Create Responsive Websites Efficiently With Bootstrap 4](https://openclassrooms.com/en/courses/5664281-create-responsive-websites-efficiently-with-bootstrap-4/6446805-add-ui-components)
+2. [7 Alternatives to the <div> HTML Tag](https://medium.com/@zac_heisey/7-alternatives-to-the-div-html-tag-7c888c7b5036)
+3. [How to setup your Workflow using Gulp v4.0.0](https://levelup.gitconnected.com/how-to-setup-your-workflow-using-gulp-v4-0-0-5450e3d7c512)
