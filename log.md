@@ -97,3 +97,15 @@ I am thinking of starting my own blog, in fact this has been my wish since 2014.
 1. [Create Responsive Websites Efficiently With Bootstrap 4](https://openclassrooms.com/en/courses/5664281-create-responsive-websites-efficiently-with-bootstrap-4/6446805-add-ui-components)
 2. [7 Alternatives to the <div> HTML Tag](https://medium.com/@zac_heisey/7-alternatives-to-the-div-html-tag-7c888c7b5036)
 3. [How to setup your Workflow using Gulp v4.0.0](https://levelup.gitconnected.com/how-to-setup-your-workflow-using-gulp-v4-0-0-5450e3d7c512)
+
+### Day 8: [05/09/2019]
+
+**Today's Progress:**
+So I have got scholarship from Facebook Developer Circle to study Front End development path on OpenClassrooms. Today, I'm going to create quote generator with JavaScript.
+
+**Thoughts:**
+It has been two days with OpenClassrooms and it is already fun. Prateek Parasad is my mentor who will guide me along Front End path. He is a nice guy.
+
+**Link to work:**
+
+1. [OpenClassrooms front end path](https://openclassrooms.com/en/paths/61-front-end-developer)
