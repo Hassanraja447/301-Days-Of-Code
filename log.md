@@ -109,3 +109,15 @@ It has been two days with OpenClassrooms and it is already fun. Prateek Parasad 
 **Link to work:**
 
 1. [OpenClassrooms front end path](https://openclassrooms.com/en/paths/61-front-end-developer)
+
+### Day 9: [06/09/2019]
+
+**Today's Progress:**
+My first project of the path is approved. I worked on step 1 of the project 5 which is to create a random quote generator.
+
+**Thoughts:**
+Happy to be working in JavaScript, again. Had to remember some simple things but overall it was great experience working with DOM.
+**Link to work:**
+
+1. [OpenClassrooms front end path](https://openclassrooms.com/en/paths/61-front-end-developer)
+2. [Random Quote Generator](https://hassanraja447.github.io/random-quote-generator/)
