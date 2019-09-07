@@ -121,3 +121,14 @@ Happy to be working in JavaScript, again. Had to remember some simple things but
 
 1. [OpenClassrooms front end path](https://openclassrooms.com/en/paths/61-front-end-developer)
 2. [Random Quote Generator](https://hassanraja447.github.io/random-quote-generator/)
+
+### Day 10: [07/09/2019]
+
+**Today's Progress:**
+Complete quotes generator.
+**Thoughts:**
+Enjoyed working on the project.
+**Link to work:**
+
+1. [OpenClassrooms front end path](https://openclassrooms.com/en/paths/61-front-end-developer)
+2. [Random Quote Generator](https://hassanraja447.github.io/random-quote-generator/)
