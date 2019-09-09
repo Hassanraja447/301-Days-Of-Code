@@ -132,3 +132,14 @@ Enjoyed working on the project.
 
 1. [OpenClassrooms front end path](https://openclassrooms.com/en/paths/61-front-end-developer)
 2. [Random Quote Generator](https://hassanraja447.github.io/random-quote-generator/)
+
+### Day 11: [09/09/2019]
+
+**Today's Progress:**
+So the next project is to build a turn based game. I started recommended javaScript course for the project. It has very good curriculum covering DOM manupilation to api request.
+**Thoughts:**
+Turn based game project might be hard but I should complete it in one month max.
+**Link to work:**
+
+1. [OpenClassrooms front end path](https://openclassrooms.com/en/paths/61-front-end-developer)
+2. [Write JavaScript for the Web Course](https://openclassrooms.com/en/courses/5493201-write-javascript-for-the-web/5496671-understand-asynchronous-programming)
