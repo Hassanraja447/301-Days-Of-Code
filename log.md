@@ -166,3 +166,13 @@ Next few months are going to be JavaScript intensive.
 1. [OpenClassrooms front end path](https://openclassrooms.com/en/paths/61-front-end-developer)
 2. [Write JavaScript for the Web Course](https://openclassrooms.com/en/courses/5493201-write-javascript-for-the-web/5496671-understand-asynchronous-programming)
 3. [JavaScript 30](https://javascript30.com/)
+
+### Day 14: [12/09/2019]
+
+**Today's Progress:**
+Started first javaScript 30 project.
+**Thoughts:**
+Next few months are going to be JavaScript intensive.
+**Link to work:**
+
+1. [JavaScript 30](https://javascript30.com/)
