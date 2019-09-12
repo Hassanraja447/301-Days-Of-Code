@@ -154,3 +154,15 @@ Huge challenge ahead.
 
 1. [OpenClassrooms front end path](https://openclassrooms.com/en/paths/61-front-end-developer)
 2. [Write JavaScript for the Web Course](https://openclassrooms.com/en/courses/5493201-write-javascript-for-the-web/5496671-understand-asynchronous-programming)
+
+### Day 13: [11/09/2019]
+
+**Today's Progress:**
+Completed the course and learned how to use gulp for automating development tasks. Had a session with my mentor. He guided me to do Wes Bos' JavaScript30. Thirty projects in thirty days.
+**Thoughts:**
+Next few months are going to be JavaScript intensive.
+**Link to work:**
+
+1. [OpenClassrooms front end path](https://openclassrooms.com/en/paths/61-front-end-developer)
+2. [Write JavaScript for the Web Course](https://openclassrooms.com/en/courses/5493201-write-javascript-for-the-web/5496671-understand-asynchronous-programming)
+3. [JavaScript 30](https://javascript30.com/)
