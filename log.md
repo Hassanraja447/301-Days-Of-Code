@@ -143,3 +143,14 @@ Turn based game project might be hard but I should complete it in one month max.
 
 1. [OpenClassrooms front end path](https://openclassrooms.com/en/paths/61-front-end-developer)
 2. [Write JavaScript for the Web Course](https://openclassrooms.com/en/courses/5493201-write-javascript-for-the-web/5496671-understand-asynchronous-programming)
+
+### Day 12: [10/09/2019]
+
+**Today's Progress:**
+Finished remaining course. It gave me a clear idea of how api requests work. Also, now I can use gulp to automate my development.
+**Thoughts:**
+Huge challenge ahead.
+**Link to work:**
+
+1. [OpenClassrooms front end path](https://openclassrooms.com/en/paths/61-front-end-developer)
+2. [Write JavaScript for the Web Course](https://openclassrooms.com/en/courses/5493201-write-javascript-for-the-web/5496671-understand-asynchronous-programming)
