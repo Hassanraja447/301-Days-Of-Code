@@ -176,3 +176,24 @@ Next few months are going to be JavaScript intensive.
 **Link to work:**
 
 1. [JavaScript 30](https://javascript30.com/)
+
+### Day 15: [13/09/2019]
+
+**Today's Progress:**
+Made some progress on JavaScript30 first project. Learned how to setup webpack for development purposes.
+**Thoughts:**
+Next few months are going to be JavaScript intensive.
+**Link to work:**
+
+1. [JavaScript 30](https://javascript30.com/)
+2. [How to setup Webpack 4 from scratch](https://dev.to/pixelgoo/how-to-configure-webpack-from-scratch-for-a-basic-website-46a5)
+
+### Day 16: [16/09/2019]
+
+**Today's Progress:**
+Made some progress on JavaScript30 first project. It is almost complete.
+**Thoughts:**
+Next few months are going to be JavaScript intensive.
+**Link to work:**
+
+1. [JavaScript 30](https://javascript30.com/)
