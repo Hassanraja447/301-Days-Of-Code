@@ -197,3 +197,14 @@ Next few months are going to be JavaScript intensive.
 **Link to work:**
 
 1. [JavaScript 30](https://javascript30.com/)
+
+### Day 17: [17/09/2019]
+
+**Today's Progress:**
+Project 1 of javaScript30 is complete. Also make a boilerplate for vanilla JS and SCSS projects with webpack. Redesigned a form submission page of a paid project.
+**Thoughts:**
+Next few months are going to be JavaScript intensive.
+**Link to work:**
+
+1. [JavaScript 30](https://javascript30.com/)
+2. [Boilerplate webpack starter](https://github.com/Hassanraja447/webpack-starter)
