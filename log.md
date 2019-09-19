@@ -208,3 +208,14 @@ Next few months are going to be JavaScript intensive.
 
 1. [JavaScript 30](https://javascript30.com/)
 2. [Boilerplate webpack starter](https://github.com/Hassanraja447/webpack-starter)
+
+### Day 18: [18/09/2019]
+
+**Today's Progress:**
+Complete project two of JavaScript30. Also learn about JavaScript module system in wepack enviornment.
+**Thoughts:**
+Next few months are going to be JavaScript intensive.
+**Link to work:**
+
+1. [JavaScript 30](https://javascript30.com/)
+2. [Boilerplate webpack starter](https://github.com/Hassanraja447/webpack-starter)
