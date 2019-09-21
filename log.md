@@ -219,3 +219,24 @@ Next few months are going to be JavaScript intensive.
 
 1. [JavaScript 30](https://javascript30.com/)
 2. [Boilerplate webpack starter](https://github.com/Hassanraja447/webpack-starter)
+
+### Day 19: [19/09/2019]
+
+**Today's Progress:**
+Complete project 3 of the JavaScript30. Also prepare presentation for my Random Quote Generater project. It goes well, I hope it will be approved.
+**Thoughts:**
+Next few months are going to be JavaScript intensive.
+**Link to work:**
+
+1. [JavaScript 30](https://javascript30.com/)
+2. [Random Quote Generator](https://hassanraja447.github.io/random-quote-generator/)
+
+### Day 20: [20/09/2019]
+
+**Today's Progress:**
+Project 4 is half done on my own. This is all about JavaScript arrays. It is very interesting and challenging at the same time. Project covers filter, sort, reduce array methods. Also tried to divide project six of the front end developer path which is turn based game. Hopefully some work is done in this week.
+**Thoughts:**
+Next few months are going to be JavaScript intensive.
+**Link to work:**
+
+1. [JavaScript 30](https://javascript30.com/)
