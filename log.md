@@ -240,3 +240,13 @@ Next few months are going to be JavaScript intensive.
 **Link to work:**
 
 1. [JavaScript 30](https://javascript30.com/)
+
+### Day 21: [21/09/2019]
+
+**Today's Progress:**
+Complete project 4.
+**Thoughts:**
+Next few months are going to be JavaScript intensive.
+**Link to work:**
+
+1. [JavaScript 30](https://javascript30.com/)
