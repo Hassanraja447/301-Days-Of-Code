@@ -1,7 +1,9 @@
 # Rules of #301DaysOfCode
 
 ## Main Commitment
-### *I will code for at least 3 minutes 1 second every day for the next 301 days.* :muscle:
+
+### _I will code for at least 3 minutes 1 second every day for the next 301 days._ :muscle:
 
 #### Start Date
-January 3rd, 2017. [Put your start date here]
+
+August 24th, 2019.
