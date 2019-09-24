@@ -260,3 +260,16 @@ Next few months are going to be JavaScript intensive.
 **Link to work:**
 
 1. [JavaScript 30](https://javascript30.com/)
+
+### Day 23: [24/09/2019]
+
+**Today's Progress:**
+Learn about the use of HTML canvas, some debug tools for debugging javaScript code through JavaScript30 next two projects. Start reading "You don't know JS" book series.
+Start working on freecodecamp js challenge project, which is to test us telephone number in different formats.
+**Thoughts:**
+Next few months are going to be JavaScript intensive.
+**Link to work:**
+
+1. [JavaScript 30](https://javascript30.com/)
+2. [You don't know JavaScript](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
+3. [Telephone validater project](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator/)
