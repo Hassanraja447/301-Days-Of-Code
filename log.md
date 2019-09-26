@@ -273,3 +273,15 @@ Next few months are going to be JavaScript intensive.
 1. [JavaScript 30](https://javascript30.com/)
 2. [You don't know JavaScript](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
 3. [Telephone validater project](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator/)
+
+
+### Day 24: [25/09/2019]
+
+**Today's Progress:**
+Complete project 10 and half of project 11 in JavaScript30. Read next few chapter of the first book of You don't know JavaScript.
+**Thoughts:**
+Next few months are going to be JavaScript intensive.
+**Link to work:**
+
+1. [JavaScript 30](https://javascript30.com/)
+2. [You don't know JavaScript](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
