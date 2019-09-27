@@ -274,7 +274,6 @@ Next few months are going to be JavaScript intensive.
 2. [You don't know JavaScript](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
 3. [Telephone validater project](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator/)
 
-
 ### Day 24: [25/09/2019]
 
 **Today's Progress:**
@@ -285,3 +284,25 @@ Next few months are going to be JavaScript intensive.
 
 1. [JavaScript 30](https://javascript30.com/)
 2. [You don't know JavaScript](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
+
+### Day 25: [26/09/2019]
+
+**Today's Progress:**
+Complete project 11 in JavaScript30. Read next few chapter of the first book of You don't know JavaScript.
+My mentor has given me a task to create 16 by 16 grid and place a circle at first grid item, then move it four directions with four arrow keys. One cell at a time. Started working on it.
+**Thoughts:**
+Next few months are going to be JavaScript intensive.
+**Link to work:**
+
+1. [JavaScript 30](https://javascript30.com/)
+2. [You don't know JavaScript](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
+
+### Day 25: [26/09/2019]
+
+**Today's Progress:**
+Read next chapter of You don't know JavaScript. Draw grid and placed the circle, also add event listener for arrow keys now it is time to bind them with circle movement.
+**Thoughts:**
+Next few months are going to be JavaScript intensive.
+**Link to work:**
+
+1. [You don't know JavaScript](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
