@@ -297,7 +297,7 @@ Next few months are going to be JavaScript intensive.
 1. [JavaScript 30](https://javascript30.com/)
 2. [You don't know JavaScript](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
 
-### Day 25: [26/09/2019]
+### Day 26: [27/09/2019]
 
 **Today's Progress:**
 Read next chapter of You don't know JavaScript. Draw grid and placed the circle, also add event listener for arrow keys now it is time to bind them with circle movement.
@@ -306,3 +306,13 @@ Next few months are going to be JavaScript intensive.
 **Link to work:**
 
 1. [You don't know JavaScript](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
+
+### Day 27: [30/09/2019]
+
+**Today's Progress:**
+Next project of JavaScript30. Plus for the turn based game project task, through a SO Q&A I found the solution to move circle in grid with arrow keys.
+**Thoughts:**
+Next few months are going to be JavaScript intensive.
+**Link to work:**
+
+1. [JavaScript 30](https://javascript30.com/)
