@@ -316,3 +316,25 @@ Next few months are going to be JavaScript intensive.
 **Link to work:**
 
 1. [JavaScript 30](https://javascript30.com/)
+
+### Day 28: [4/10/2019]
+
+**Today's Progress:**
+Foget to add new entries. Started using canvas api for turn base game project.
+**Thoughts:**
+Next few months are going to be JavaScript intensive.
+**Link to work:**
+
+1. [Turn-based game](https://github.com/Hassanraja447/offensive-strike)
+
+### Day 29: [5/10/2019]
+
+**Today's Progress:**
+Complete project 15 of javascript30. Also create grid using canvas api. It is fun, I'm learning more about canvas and it usage.
+**Thoughts:**
+Next few months are going to be JavaScript intensive.
+**Link to work:**
+
+1. [JavaScript 30](https://javascript30.com/)
+
+2. [Turn-based game](https://github.com/Hassanraja447/offensive-strike)
